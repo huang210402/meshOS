@@ -1,0 +1,12 @@
+# Blender MTL File: 'location.blend'
+# Material Count: 1
+
+newmtl Color_-_Red_Grad
+Ns 359.999993
+Ka 1.000000 1.000000 1.000000
+Kd 0.288184 0.044118 0.696786
+Ks 0.600000 0.600000 0.600000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
